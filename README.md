@@ -19,8 +19,8 @@ A machine learning project exploring how particle collision events from CERN dat
 
 ---
 
-### 🌿 Plant Disease Recognition
-A machine learning application that analyzes plant leaf images and predicts possible plant diseases.
+### 🌿 Leaf-Based-Plant-Identification
+A machine learning application that identifies plants based on leaf images.
 
 The project was developed using the **PlantVillage dataset** and combines machine learning with a web-based interface.
 
