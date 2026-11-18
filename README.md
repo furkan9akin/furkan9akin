@@ -16,6 +16,7 @@ A machine learning project exploring how particle collision events from CERN dat
 **Focus:** Machine Learning • Data Analysis • Particle Physics • Python
 
 **Project completed and published.** Explore the [source code](https://github.com/furkan9akin/ParticleAI-CERN) and try the [live ParticleAI Lab](https://particleai-cern.onrender.com/ParticleAI_Lab).
+
 🔗 [View Repository](https://github.com/furkan9akin/ParticleAI-CERN)
 
 ---
